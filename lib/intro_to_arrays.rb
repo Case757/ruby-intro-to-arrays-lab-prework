@@ -16,3 +16,4 @@ def third_element(myArr)
   myArr[2]
 end
 
+
