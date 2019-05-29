@@ -11,3 +11,8 @@ end
 def my_first_element(myArr)
   myArr[0]
 end
+
+def third_element(myArr)
+  myArr[2]
+end
+
