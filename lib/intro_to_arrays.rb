@@ -24,3 +24,6 @@ def first_element_with_array_methods(myArr)
   return myArr.first
 end
 
+def last_element_with_array_methods(myArr)
+  return myArr.last
+end
