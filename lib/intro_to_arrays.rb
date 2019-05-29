@@ -8,7 +8,7 @@ def array_with_two_elements
   myArr
 end
 
-def my_first_element(myArr)
+def first_element(myArr)
   return myArr[0]
 end
 
