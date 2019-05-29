@@ -16,4 +16,11 @@ def third_element(myArr)
   return myArr[2]
 end
 
+def last_element(myArr)
+  return myArr[-1]
+end
+
+def first_element_with_array_methods(myArr)
+  return myArr.first
+end
 
