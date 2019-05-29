@@ -9,11 +9,11 @@ def array_with_two_elements
 end
 
 def my_first_element(myArr)
-  myArr[0]
+  return myArr[0]
 end
 
 def third_element(myArr)
-  myArr[2]
+  return myArr[2]
 end
 
 
